@@ -1,0 +1,90 @@
+[ПРАКТИКА] Набор тестовых изображений: 8 файлов
+[ПРАКТИКА] Изображение: lena_rgb (lena_rgb.png)
+[ПРАКТИКА] q=10: in=498268 B, out=66594 B, ratio=7.482, PSNR=27.867
+[ПРАКТИКА] q=20: in=498268 B, out=71199 B, ratio=6.998, PSNR=30.039
+[ПРАКТИКА] q=30: in=498268 B, out=75218 B, ratio=6.624, PSNR=31.084
+[ПРАКТИКА] q=40: in=498268 B, out=78971 B, ratio=6.310, PSNR=31.733
+[ПРАКТИКА] q=50: in=498268 B, out=82934 B, ratio=6.008, PSNR=32.156
+[ПРАКТИКА] q=60: in=498268 B, out=86593 B, ratio=5.754, PSNR=32.526
+[ПРАКТИКА] q=70: in=498268 B, out=92920 B, ratio=5.362, PSNR=32.971
+[ПРАКТИКА] q=80: in=498268 B, out=103964 B, ratio=4.793, PSNR=33.592
+[ПРАКТИКА] q=90: in=498268 B, out=129560 B, ratio=3.846, PSNR=34.667
+[ПРАКТИКА] График сохранен: lena_rgb_size_vs_quality.png
+[ПРАКТИКА] Изображение: lena_gray (lena_gray.png)
+[ПРАКТИКА] q=10: in=160247 B, out=65626 B, ratio=2.442, PSNR=30.388
+[ПРАКТИКА] q=20: in=160247 B, out=69020 B, ratio=2.322, PSNR=32.924
+[ПРАКТИКА] q=30: in=160247 B, out=71744 B, ratio=2.234, PSNR=34.190
+[ПРАКТИКА] q=40: in=160247 B, out=74299 B, ratio=2.157, PSNR=35.060
+[ПРАКТИКА] q=50: in=160247 B, out=76815 B, ratio=2.086, PSNR=35.734
+[ПРАКТИКА] q=60: in=160247 B, out=79115 B, ratio=2.025, PSNR=36.310
+[ПРАКТИКА] q=70: in=160247 B, out=83007 B, ratio=1.931, PSNR=37.126
+[ПРАКТИКА] q=80: in=160247 B, out=89673 B, ratio=1.787, PSNR=38.311
+[ПРАКТИКА] q=90: in=160247 B, out=104273 B, ratio=1.537, PSNR=40.408
+[ПРАКТИКА] График сохранен: lena_gray_size_vs_quality.png
+[ПРАКТИКА] Изображение: lena_bw_round (lena_bw_round.png)
+[ПРАКТИКА] q=10: in=14074 B, out=72367 B, ratio=0.194, PSNR=21.416
+[ПРАКТИКА] q=20: in=14074 B, out=78525 B, ratio=0.179, PSNR=23.545
+[ПРАКТИКА] q=30: in=14074 B, out=84033 B, ratio=0.167, PSNR=26.159
+[ПРАКТИКА] q=40: in=14074 B, out=88443 B, ratio=0.159, PSNR=28.293
+[ПРАКТИКА] q=50: in=14074 B, out=92478 B, ratio=0.152, PSNR=30.107
+[ПРАКТИКА] q=60: in=14074 B, out=96344 B, ratio=0.146, PSNR=32.004
+[ПРАКТИКА] q=70: in=14074 B, out=101595 B, ratio=0.139, PSNR=34.445
+[ПРАКТИКА] q=80: in=14074 B, out=109471 B, ratio=0.129, PSNR=37.801
+[ПРАКТИКА] q=90: in=14074 B, out=124182 B, ratio=0.113, PSNR=43.841
+[ПРАКТИКА] График сохранен: lena_bw_round_size_vs_quality.png
+[ПРАКТИКА] Изображение: lena_bw_dither (lena_bw_dither.png)
+[ПРАКТИКА] q=10: in=31041 B, out=105216 B, ratio=0.295, PSNR=15.387
+[ПРАКТИКА] q=20: in=31041 B, out=124638 B, ratio=0.249, PSNR=17.681
+[ПРАКТИКА] q=30: in=31041 B, out=141208 B, ratio=0.220, PSNR=20.997
+[ПРАКТИКА] q=40: in=31041 B, out=153198 B, ratio=0.203, PSNR=23.515
+[ПРАКТИКА] q=50: in=31041 B, out=163808 B, ratio=0.189, PSNR=25.495
+[ПРАКТИКА] q=60: in=31041 B, out=173634 B, ratio=0.179, PSNR=27.379
+[ПРАКТИКА] q=70: in=31041 B, out=188569 B, ratio=0.165, PSNR=29.855
+[ПРАКТИКА] q=80: in=31041 B, out=212655 B, ratio=0.146, PSNR=33.372
+[ПРАКТИКА] q=90: in=31041 B, out=259702 B, ratio=0.120, PSNR=39.178
+[ПРАКТИКА] График сохранен: lena_bw_dither_size_vs_quality.png
+[ПРАКТИКА] Изображение: color_rgb (color_rgb.png)
+[ПРАКТИКА] q=10: in=2334858 B, out=299819 B, ratio=7.788, PSNR=23.320
+[ПРАКТИКА] q=20: in=2334858 B, out=342205 B, ratio=6.823, PSNR=25.879
+[ПРАКТИКА] q=30: in=2334858 B, out=376119 B, ratio=6.208, PSNR=27.332
+[ПРАКТИКА] q=40: in=2334858 B, out=405478 B, ratio=5.758, PSNR=28.401
+[ПРАКТИКА] q=50: in=2334858 B, out=433445 B, ratio=5.387, PSNR=29.314
+[ПРАКТИКА] q=60: in=2334858 B, out=459017 B, ratio=5.087, PSNR=30.167
+[ПРАКТИКА] q=70: in=2334858 B, out=499791 B, ratio=4.672, PSNR=31.340
+[ПРАКТИКА] q=80: in=2334858 B, out=567778 B, ratio=4.112, PSNR=33.018
+[ПРАКТИКА] q=90: in=2334858 B, out=706247 B, ratio=3.306, PSNR=35.711
+[ПРАКТИКА] График сохранен: color_rgb_size_vs_quality.png
+[ПРАКТИКА] Изображение: color_gray (color_gray.png)
+[ПРАКТИКА] q=10: in=798971 B, out=291147 B, ratio=2.744, PSNR=24.109
+[ПРАКТИКА] q=20: in=798971 B, out=324705 B, ratio=2.461, PSNR=26.578
+[ПРАКТИКА] q=30: in=798971 B, out=350880 B, ratio=2.277, PSNR=28.028
+[ПРАКТИКА] q=40: in=798971 B, out=373659 B, ratio=2.138, PSNR=29.130
+[ПРАКТИКА] q=50: in=798971 B, out=394664 B, ratio=2.024, PSNR=30.097
+[ПРАКТИКА] q=60: in=798971 B, out=413828 B, ratio=1.931, PSNR=31.023
+[ПРАКТИКА] q=70: in=798971 B, out=444220 B, ratio=1.799, PSNR=32.353
+[ПРАКТИКА] q=80: in=798971 B, out=495815 B, ratio=1.611, PSNR=34.387
+[ПРАКТИКА] q=90: in=798971 B, out=598570 B, ratio=1.335, PSNR=38.226
+[ПРАКТИКА] График сохранен: color_gray_size_vs_quality.png
+[ПРАКТИКА] Изображение: color_bw_round (color_bw_round.png)
+[ПРАКТИКА] q=10: in=113578 B, out=345708 B, ratio=0.329, PSNR=17.586
+[ПРАКТИКА] q=20: in=113578 B, out=401811 B, ratio=0.283, PSNR=19.941
+[ПРАКТИКА] q=30: in=113578 B, out=452367 B, ratio=0.251, PSNR=22.689
+[ПРАКТИКА] q=40: in=113578 B, out=493138 B, ratio=0.230, PSNR=24.943
+[ПРАКТИКА] q=50: in=113578 B, out=529877 B, ratio=0.214, PSNR=26.827
+[ПРАКТИКА] q=60: in=113578 B, out=563414 B, ratio=0.202, PSNR=28.788
+[ПРАКТИКА] q=70: in=113578 B, out=609230 B, ratio=0.186, PSNR=31.229
+[ПРАКТИКА] q=80: in=113578 B, out=678919 B, ratio=0.167, PSNR=34.748
+[ПРАКТИКА] q=90: in=113578 B, out=810188 B, ratio=0.140, PSNR=40.663
+[ПРАКТИКА] График сохранен: color_bw_round_size_vs_quality.png
+[ПРАКТИКА] Изображение: color_bw_dither (color_bw_dither.png)
+[ПРАКТИКА] q=10: in=130452 B, out=434946 B, ratio=0.300, PSNR=15.288
+[ПРАКТИКА] q=20: in=130452 B, out=513347 B, ratio=0.254, PSNR=17.632
+[ПРАКТИКА] q=30: in=130452 B, out=581461 B, ratio=0.224, PSNR=20.957
+[ПРАКТИКА] q=40: in=130452 B, out=631136 B, ratio=0.207, PSNR=23.472
+[ПРАКТИКА] q=50: in=130452 B, out=675134 B, ratio=0.193, PSNR=25.390
+[ПРАКТИКА] q=60: in=130452 B, out=716021 B, ratio=0.182, PSNR=27.332
+[ПРАКТИКА] q=70: in=130452 B, out=778052 B, ratio=0.168, PSNR=29.824
+[ПРАКТИКА] q=80: in=130452 B, out=878267 B, ratio=0.149, PSNR=33.370
+[ПРАКТИКА] q=90: in=130452 B, out=1073413 B, ratio=0.122, PSNR=39.288
+[ПРАКТИКА] График сохранен: color_bw_dither_size_vs_quality.png
+[ПРАКТИКА] Готово. Папка результатов: practical_results/
